@@ -10,3 +10,4 @@ float saida_lento(float a, float b, float v);
 float saida_normal(float a, float b, float c, float v);
 float saida_rapido(float a, float b, float v);
 float saida(int conjunto, float a, float b, float c, float v);
+float fuzzy(float v_1, float v_2, float d);
